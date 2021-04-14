@@ -1,0 +1,4 @@
+@EndUserText.label: 'Servicio Libros'
+define service ZSD_LIBROS {
+  expose Z_B_TB_LIBROS as Libros;
+}
